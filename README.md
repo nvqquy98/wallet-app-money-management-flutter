@@ -2,6 +2,7 @@
 
 * __Built by: Hei Dun Luv__ - __`Hate and Love`__ 
   
+    * Force từ nguồn https://github.com/huynguyen1999kh/wallet-app-money-management-flutter
     * 102160259 - Nguyễn Văn Quý
 
 <p align="center"> <img src ="./assets/logo.png" /> </p>
@@ -44,9 +45,16 @@ flutter run # make sure your mobile device is connected
  - [x] Thêm/xóa/sửa danh mục thu/chi
  - [x] Thống kê bằng biểu đồ
  - [x] Tùy chỉnh theme
- - [ ] Chức năng đăng nhập
+ - [x] Chức năng đăng nhập
  - [ ] Liên kết với tài khoản ngân hàng
 
+# Add Thêm vài tính năng 
+ - [x] Thay đổi lưu local sang firebase 
+ - [x] Áp dụng đăng nhập vào trong app 
+ - [x] Sửa một vài logic trong app đang bị lỗi
+ - [x] Format code cho app nhìn clear hơn 
+ - [ ] Sửa page bị render lại quá nhiều lần ảnh hưởng đến performance
+ - [ ] Migrate từ firebas sang BackEnd (nestjs) 
 
 [bieu-do]: ./assets/showcase/bieu-do.png
 [drawer]: ./assets/showcase/drawer.png
